@@ -1,0 +1,453 @@
+Response ID
+Date Submitted
+Status
+Length of Interview
+In which country have you been living permanently for the last six months?
+Select the region in which you have lived for the last six months. If you live in Minsk, select Minsk
+Indicate the city where you live?
+Indicate the city where you live?.1
+Indicate the city where you live?.2
+Indicate the city where you live?.3
+Indicate the city where you live?.4
+Indicate the city where you live?.5
+Settlement group
+Please indicate your gender:
+Please indicate your age:
+Age group
+Do you often think about how the government influences your life and the life of your family?
+In your opinion, are reforms needed or not needed in today's Belarus?
+In general, how large-scale reforms are needed in Belarus today?
+Overall, how quickly are reforms needed in Belarus today?
+Basically, in what direction should reforms go in the areas that need to be reformed?
+Health care reform: In your opinion, what reforms are needed first in today’s Belarus? Select up to three options
+Economic reform: In your opinion, what reforms are needed in the first place in today's Belarus? Select up to three options
+Reform of the judicial system: In your opinion, what reforms are needed first of all in today's Belarus? Select up to three options
+Pension reform: In your opinion, what reforms are needed first in today’s Belarus? Select up to three options
+Tax system reform: In your opinion, what reforms are needed first in today's Belarus? Select up to three options
+Education reform: In your opinion, what reforms are needed first in today’s Belarus? Select up to three options
+Social sector reform: In your opinion, what reforms are needed first in today’s Belarus? Select up to three options
+Army reform: In your opinion, what reforms are needed first in today’s Belarus? Select up to three options
+Reform of the Ministry of Internal Affairs: In your opinion, what reforms are needed in the first place in today's Belarus? Select up to three options
+Constitutional reform: In your opinion, what reforms are needed in the first place in today's Belarus? Select up to three options
+Reform of the public administration system: In your opinion, what reforms are needed in the first place in today's Belarus? Select not �
+Decentralization of public administration (more powers to local authorities, etc.): In your opinion, what reforms in today’s Belarus are necessary in the future?
+Other (write down): In your opinion, what reforms are needed first in today's Belarus? Select up to three options
+I find it difficult to answer: In your opinion, what reforms are needed in the first place in today’s Belarus? Select up to three options
+Other (write down): In your opinion, what reforms are needed first in today's Belarus? Select up to three options.1
+Give the opportunity to earn money: In your opinion, what should the state do for people like you?
+Provide benefits, benefits: In your opinion, what should the state do for people like you?
+Provide a pension: In your opinion, what should the state do for people like you?
+Pay a scholarship: In your opinion, what should the state do for people like you?
+Provide free secondary education: In your opinion, what should the state do for people like you?
+Provide free higher education: In your opinion, what should the state do for people like you?
+Provide quality medical care: In your opinion, what should the state do for people like you?
+Protect from crime: In your opinion, what should the state do for people like you?
+Provide 100% guarantees of bank deposits: In your opinion, what should the state do for people like you?
+Guarantee employment: In your opinion, what should the state do for people like you?
+Provide free medical care: In your opinion, what should the state do for people like you?
+Ensure political stability: In your opinion, what should the state do for people like you?
+Guarantee compliance with the rule of law, so that in case of problems I can solve them through the courts: In your opinion, what should the state do for such people
+Ensure that employers comply with their obligations to employees: In your opinion, what should the state do for people like you?
+Provide opportunities for entrepreneurial activity: In your opinion, what should the state do for people like you?
+Help with the purchase of a home, give preferential loans: In your opinion, what should the state do for people like you?
+Ensure security from external threats: In your opinion, what should the state do for people like you?
+The state provides an opportunity to earn money: In your opinion, what does the state really do for people like you?
+The state provides benefits: In your opinion, what does the state really do for people like you?
+The state provides a normal pension: In your opinion, what does the state really do for people like you?
+The state provides scholarships: In your opinion, what does the state really do for people like you?
+The state provides high-quality free secondary education: In your opinion, what does the state really do for such people as
+The state provides quality higher education: In your opinion, what does the state really do for people like you?
+The state provides quality medical care: In your opinion, what does the state really do for people like you?
+The state protects citizens from crime: In your opinion, what does the state really do for people like you?
+The state provides 100% guarantees of my bank deposits: In your opinion, what does the state really do for people like you?
+The state guarantees employment: In your opinion, what does the state really do for people like you?
+The state provides free medical care: In your opinion, what does the state really do for people like you?
+The state ensures political stability: In your opinion, what does the state really do for people like you?
+The state guarantees respect for the rule of law, an independent judicial system: In your opinion, what does the state really do for such people?
+The state guarantees that employers comply with their obligations to employees: In your opinion, what does the state actually do for this?
+The state provides opportunities for entrepreneurial activity: In your opinion, what does the state really do for such people?
+The state helps with the purchase of housing, gives preferential loans: In your opinion, what does the state really do for people like you?
+The state provides security from external threats: In your opinion, what does the state really do for people like you?
+Tell me what the following depends most on: Your well-being
+Tell me what the following most depends on: Your health
+Tell me what the following depends most on: Your education and the education of your children
+Tell me what the following depends most on:Your employment
+It's better to have a lower salary but a guaranteed job: Tell me how much you agree or disagree with the following statements?
+It is better to have average medical care, but for free: Tell me how much you agree or disagree with the following statements
+It is better to distribute university graduates forcibly, but not leave them unemployed: Tell me how much you agree or disagree
+It is better to work in a state-owned enterprise than in a private one: Tell me, how much do you agree or disagree with the following statements?
+It would be better for Belarusian enterprises to earn not very large profits, but not to be bought up by foreigners: Tell me how much you agree
+Unemployed: Does the state take good or bad care of the following groups of the population of Belarus?
+Pensioners: Does the state take good or bad care of the following groups of the population of Belarus?
+Large families: Does the state take good or bad care of the following groups of the population of Belarus?
+Children: Does the state take good or bad care of the following groups of the population of Belarus?
+Young specialists: Does the state take good or bad care of the following groups of the population of Belarus?
+Young families: Does the state take good or bad care of the following groups of the population of Belarus?
+Students and graduate students: Does the state take good or bad care of the following groups of the population of Belarus?
+Military: Does the state take good or bad care of the following groups of the population of Belarus?
+Police, special services, riot police: Does the state take good or bad care of the following groups of the population of Belarus?
+Workers: Does the state take good or bad care of the following groups of the population of Belarus?
+Rural residents: Does the state take good or bad care of the following groups of the population of Belarus?
+Teachers, teachers, doctors: Does the state take good or bad care of the following groups of the population of Belarus?
+Civil servants (officials): Does the state take good or bad care of the following groups of the population of Belarus?
+Athletes: Does the state take good or bad care of the following groups of the population of Belarus?
+How has social support for people like you changed over the past year or two?
+To what extent has increased social support affected your life?
+To what extent has decreased social support affected your life?
+Targeted support for low-income and large families: What social support programs for people like you do you know? Select
+Preferential loan for housing construction: What social support programs for people like you do you know? Select everything that suits
+Social benefits for citizens affected by the Chernobyl disaster: What social support programs for people like you do you know�
+Benefits for receiving medications: What social support programs do you know about for people like you? Select all that apply
+Other (write down): What social support programs do you know about for people like you? Select all that apply
+I don’t know about any of the following: What social support programs do you know for people like you? Select all that apply
+Other (write down): What social support programs do you know about for people like you? Select all that apply.1
+Targeted support for low-income and large families: Which of these programs do you receive support for? Select all that apply
+Preferential loan for housing construction: Which of these programs do you receive support for? Select all that apply
+Social benefits for citizens affected by the Chernobyl disaster: Which of these programs do you receive support for? Select all that suit
+Benefits for receiving medications: Which of these programs do you receive support for? Select all that apply
+[question(option value), id=1443, option=12910]:Which of these programs do you receive support for? Select all that apply
+I don't receive support for any of them: Which of these programs do you receive support for? Select all that apply
+To the aid of the state, social assistance program: Imagine that you have serious financial problems Who do you turn to first?
+For friends, acquaintances: Imagine that you have serious financial problems. Who do you count on first in case of this?
+For relatives, parents: Imagine that you have serious financial problems. Who do you primarily count on for help?
+To help your employer: Imagine that you have serious financial problems. Who do you rely on first if this happens?
+Only for yourself: Imagine that you have serious financial problems. Who do you rely on first in case of such tests?
+I find it difficult to answer: Imagine that you have serious financial problems. Who do you count on first in case of emergency?
+Contact local authorities with a suggestion or demand: If you were, to one degree or another, dissatisfied with what the government is doing
+Go to court: If you were, to one degree or another, dissatisfied with what the state is doing for you, then how could you �
+Contact the media: If you were, to one degree or another, dissatisfied with what the state is doing for you, then how could you �
+Participate in mass protests: If you were, to one degree or another, dissatisfied with what the state is doing for you, then what about
+Write a complaint to the complaint book: If you were, to one degree or another, dissatisfied with what the state is doing for you, then how would you
+Try to adapt, look for ways to solve the problem through personal relationships: If you were to one degree or another dissatisfied with that
+Contact public organizations: If you were, to one degree or another, dissatisfied with what the state is doing for you, then what
+Vote in elections: If you were, to one degree or another, dissatisfied with what the state is doing for you, then how could you
+Contact the deputy: If you were, to one degree or another, dissatisfied with what the state is doing for you, then how could you
+I wouldn’t change anything: If you were, to one degree or another, dissatisfied with what the state is doing for you, then how could you
+I find it difficult to answer: If you were, to one degree or another, dissatisfied with what the state is doing for you, then how could you
+In your opinion, how positive or negative is the majority of residents of Belarus regarding demonstrations and protests?
+Developed production: Remember the last time you thought: “It’s good that I live in Belarus!” What was this connected with? Select all that �
+Skillful leadership of the state: Remember the last time you thought: “It’s good that I live in Belarus!” What was this connected with? Select
+Strong state: Remember the last time you thought: “It’s good that I live in Belarus!” What was this connected with? Select all that you like
+Quality medical care: Remember the last time you thought: “It’s good that I live in Belarus!” What was this connected with? IN
+Quality secondary education: Remember the last time you thought: “It’s good that I live in Belarus!” What was this connected with? Choose
+Quality higher education: Remember the last time you thought: “It’s good that I live in Belarus!” What was this connected with? Select
+Kind, sympathetic people: Remember the last time you thought: “It’s good that I live in Belarus!” What was this connected with? Select all that
+High standard of living: Remember the last time you thought: “It’s good that I live in Belarus!” What was this connected with? Select all that
+Financial stability: Remember the last time you thought: “It’s good that I live in Belarus!” What was this connected with? Select all
+Political stability: Remember the last time you thought: “It’s good that I live in Belarus!” What was this connected with? Select all
+Safety, no crime: Remember the last time you thought: “It’s good that I live in Belarus!” What was this connected with? Select all
+There is no arbitrariness of officials: Remember the last time you thought: “It’s good that I live in Belarus!” What was this connected with? Select all
+Sports success: Remember the last time you thought: “It’s good that I live in Belarus!” What was this connected with? Choose everything that suits you
+A fair state: Remember the last time you thought: “It’s good that I live in Belarus!” What was this connected with? Select all
+No unemployment: Remember the last time you thought: “It’s good that I live in Belarus!” What was this connected with? Select all that apply�
+No poverty: Remember the last time you thought: “It’s good that I live in Belarus!” What was this connected with? Select all that apply
+No war: Remember the last time you thought: “It’s good that I live in Belarus!” What was this connected with? Select all that apply
+Decent pensions: Remember the last time you thought: “It’s good that I live in Belarus!” What was this connected with? Select everything that suits you
+Beautiful nature: Remember the last time you thought: “It’s good that I live in Belarus!” What was this connected with? Select everything that suits you
+Good environmental situation: no harmful environmental pollution: Remember the last time you thought: “It’s good that I live in �
+Active construction, improvement of cities and villages: Remember the last time you thought: “It’s good that I live in Belarus!” What is it with?
+Development of housing construction: Remember the last time you thought: “It’s good that I live in Belarus!” What was this connected with? Select in�
+I never thought so: Remember the last time you thought: “It’s good that I live in Belarus!” What was this connected with? Select all that
+In your opinion, where do people like you live better - in Belarus or abroad?
+If there was such an opportunity, would you move from Belarus to another country for permanent residence in the near future?
+Russia: Which country would you prefer to move to? Select up to three options
+Ukraine: Which country would you prefer to move to? Select up to three options
+Baltic countries (Lithuania, Latvia, Estonia): Which country would you prefer to move to? Select up to three options
+Countries of Eastern Europe (Poland, Czech Republic, etc.): Which country would you prefer to move to? Select up to three options
+Countries of Western Europe (Germany, France, etc.): Which country would you prefer to move to? Select up to three options
+Scandinavian countries (Finland, Sweden, Norway): Which country would you prefer to move to? Select up to three options
+North American countries (USA, Canada): Which country would you prefer to move to? Select up to three options
+Another country (write down): Which country would you prefer to move to? Select up to three options
+Another country (write down): Which country would you prefer to move to? Select up to three options.1
+This will improve my financial situation: Why would you like to leave the country? Select all that apply
+This will give me the opportunity to get a good education: Why would you like to leave the country? Select all that apply
+This will give me the opportunity to receive quality treatment and medical care: Why would you like to leave the country? Select everything that suits you
+I will have more social guarantees, better social security: Why would you like to leave the country? Select all that apply
+This will give me the opportunity to improve my qualifications and achieve career growth: Why would you like to leave the country? Select everything that suits
+This will reduce the risks for me associated with the current political course of the country: Why would you like to leave the country? Select all that apply
+This will give me the opportunity to live in a country whose structure is more consistent with my values: Why would you want to leave the country? Select all
+Other (write down): Why would you like to leave the country? Select all that apply
+I find it difficult to answer: Why would you like to leave the country? Select all that apply
+Other (write down): Why would you like to leave the country? Select all that apply.1
+Everything suits me in my country: Why don’t you want to leave the country? Select all that apply
+No funds to leave: Why don’t you want to leave the country? Select all that apply
+I won’t be able to find a job abroad: Why don’t you want to leave the country? Select all that apply
+My loved ones: family, children, friends live in this country, and I don’t want to part with them: Why don’t you want to leave the country? Select all that
+Uncertainty is scary: Why don’t you want to leave the country? Select all that apply
+I'm proud of my country, that's why I live here: Why don't you want to leave the country? Select all that apply
+Other (write down): Why don't you want to leave the country? Select all that apply
+I find it difficult to answer: Why don’t you want to leave the country? Select all that apply
+Other (write down): Why don't you want to leave the country? Select all that apply.1
+How do you feel about the fact that in Belarus most employers enter into fixed-term (that is, one to three years) employment contracts with employees?
+This reduces the social guarantees of workers: You indicated that you have a negative attitude towards the introduction of fixed-term employment contracts. Why?
+This makes workers powerless in relations with the employer: You indicated that you have a negative attitude towards the introduction of fixed-term employment contracts�
+This requires more effort from the employee to remain in his current job: You indicated that you have a negative attitude towards the introduction of urgent work
+This makes my life less predictable: You indicated that you have a negative attitude towards the introduction of fixed-term employment contracts. Why?
+I find it difficult to answer: You indicated that you have a negative attitude towards the introduction of fixed-term employment contracts. Why?
+Read the statement: “Our employer is trying to deceive the employee, and the employee is trying to deceive the employer.” To what extent does this statement correspond?
+Read the statement: “Our employer is trying to deceive the employee, and the employee is trying to deceive the employer.” To what extent does this statement correspond to �.1
+Which of the two alternatives given above would you prefer?
+What is your main occupation at the moment?
+What type of company do you work for?
+Would you like to go to work for a state enterprise (organization)?
+Would you like to go to work for a state enterprise (organization)?.1
+What field do you work in (your main place of work)?
+Other (write down): What field do you work in (your main place of work)?
+Salary level: What suits you and what doesn’t suit you at your current workplace?
+Career Opportunities: What do you like and what don't you like about your current job?
+Opportunities for professional development: What do you like and what don't you like about your current job?
+Work schedule: What suits you and what doesn’t suit you at your current workplace?
+“Social package” (paid leave, sick leave, etc.): What suits you and what doesn’t suit you at your current workplace?
+Relationships in the team: What suits you and what doesn’t suit you at your current workplace?
+Prospects for salary increase: What suits you and what doesn’t suit you at your current workplace?
+Management’s attitude towards the employee: What suits you and what doesn’t suit you at your current workplace?
+I have an interesting job: How much do you agree or disagree with the following statements?
+With my specialty/level of education, I can easily get a good job in Belarus: How much do you agree or disagree with
+With my specialty/level of education, I can easily get a good job abroad: To what extent do you agree or disagree?
+It would be difficult for my employer to find a replacement for a qualified worker like me: How much do you agree or disagree with the following?
+I work largely because there is no one willing to do a job like mine: How much do you agree or disagree with the following statements
+If it weren't for my connections, I would have already been fired from my job: How much do you agree or disagree with the following statements?
+If at another job I was offered the prospect of getting housing, I would, without hesitation, go work there: To what extent do you agree or �
+I am working at my current job largely to gain experience and find another job: How much do you agree or disagree with the following?
+What would you do if you had a disagreement with your employer?
+Other (write down): What would you do if you had a disagreement with your employer?
+Low pension: What, in your opinion, are the main problems of the pension system in Belarus?
+Lack of pension funds and other companies where additional contributions could be made: What, in your opinion, are the main problems
+“Equalization”: everyone receives approximately the same pension, regardless of how they worked during their working life: What, in your opinion, are the main
+Late payment of pensions: What, in your opinion, are the main problems of the pension system in Belarus?
+Raising the retirement age: What, in your opinion, are the main problems of the pension system in Belarus?
+Do you think your pension is enough or not enough to live on?
+How do you assess your employment prospects in Belarus?
+In your opinion, who primarily needs the distribution of students (graduates) after graduation from a university or college?
+Job in your specialty: Which of the following would you like to achieve in 10 years?
+Career, career advancement: Which of the following would you like to achieve in 10 years?
+High salary: Which of the following would you like to achieve in 10 years?
+Own business (your own business): Which of the following would you like to achieve in 10 years?
+Own your own home (apartment): Which of the following would you like to achieve in 10 years?
+Country estate (dacha): Which of the following would you like to achieve in 10 years?
+Own car: Which of the following would you like to achieve in 10 years?
+Leadership position: Which of the following would you like to achieve in 10 years?
+Full realization of your creative and human potential: Which of the following would you like to achieve in 10 years?
+Active social or political activity (in Parliament, local authorities, in a party, public organization, etc.): Which of the following?
+Fame and authority as a professional in your field: Which of the following would you like to achieve in 10 years?
+Fame and authority as a public figure, politician: Which of the following would you like to achieve in 10 years?
+Family, children: Which of the following would you like to achieve in 10 years?
+Live in a big city: Which of the following would you like to achieve in 10 years?
+Live in a rural area or in a small town: Which of the following would you like to achieve in 10 years?
+Live abroad: Which of the following would you like to achieve in 10 years?
+To participate in events, concerts: In your opinion, why do students and students become members of the Belarusian Republican Youth Union
+To communicate more, make friends: In your opinion, why do students and students become members of the Belarusian Republican Youth Union
+For patriotic reasons: In your opinion, why do students and students become members of the Belarusian Republican Youth Union?
+Because members of the Belarusian Republican Youth Union are promised additional benefits and government support: In your opinion, why do students become members of the Belarusian Republican Youth Union?
+Because everyone is forced to become members of the Belarusian Republican Youth Union: In your opinion, why do students and students become members of the Belarusian Republican Youth Union (Belarusian Republic)
+Other (write down): In your opinion, why do students become members of the Belarusian Republican Youth Union (BRSM)? Select
+I don’t know such an organization: In your opinion, why do students and students become members of the Belarusian Republican Youth Union
+I find it difficult to answer: In your opinion, why do students become members of the Belarusian Republican Youth Union (BRSM)?
+Other (write down): In your opinion, why do students become members of the Belarusian Republican Youth Union (BRSM)? Select.1
+For what reason are you not currently working?
+Other (write down): For what reason are you not currently working?
+Have you been looking for a job or trying to start your own business in the last month?
+If you found a job, would you be able to start within the next two weeks?
+Are you registered with the employment service as unemployed?
+Is there someone in your house or entrance who plays the role of a “social activist” - complains, collects signatures, talks with representatives of the authorities?
+How often do you communicate with friends and acquaintances (not family members or work colleagues)?
+Rising prices (inflation): What do you think are the most important problems in Belarus today? Please select no more than five of the most important issues
+Alcoholism: What do you think are the most important problems in Belarus today? Please select no more than five of the most important issues
+Low level of income of the population: What do you think are the most important problems in Belarus today? Please select no more than five of the most
+Instability of the Belarusian ruble: What do you think are the most important problems in Belarus today? Please select no more than five of the most
+High housing prices: What do you think are the most important problems in Belarus today? Please select no more than five most important problems
+High taxes: What do you think are the most important problems in Belarus today? Please select no more than five of the most important issues
+High tariffs for housing and communal services: What do you think are the most important problems in Belarus today? Please select no more than five most important problems
+Poverty of a significant part of the population: What do you think are the most important problems in Belarus today? Please select no more than five
+Corruption, bribery: What do you think are the most important problems in Belarus today? Please select no more than five of the most important points
+Unemployment: What do you think are the most important problems in Belarus today? Please select no more than five of the most important issues
+Oppression of entrepreneurs: What do you think are the most important problems in Belarus today? Please select no more than five most important
+Increasing oil and gas prices: What do you think are the most important problems in Belarus today? Please select no more than the five most important
+Lack of democracy and freedom of speech: What do you think are the most important problems in Belarus today? Please select no more than five
+Growing external debt: What do you think are the most important problems in Belarus today? Please select no more than five of the most important issues
+Lack of culture, aggressiveness of people: What do you think are the most important problems in Belarus today? Please select no more than five of the most
+Low level of medical care: What do you think are the most important problems in Belarus today? Please select no more than five
+State intervention in the activities of enterprises: What do you think are the most important problems in Belarus today? Please select
+Excessive bureaucratization: What do you think are the most important problems in Belarus today? Please select no more than the five most important
+Environmental pollution (bad ecology): What do you think are the most important problems in Belarus today? Please select no more
+Poor relations with other countries, international community: What do you think are the most important problems in Belarus today? Please select no more than
+High crime rate: What do you think are the most important problems in Belarus today? Please select no more than five of the most important problems�
+Population decline: What do you think are the most important problems in Belarus today? Please select no more than five of the most
+Low quality of the education system: What do you think are the most important problems in Belarus today? Please select no more than five of the most
+Infringement of national culture and language: What do you think are the most important problems in Belarus today? Please select no more than five
+These problems are not relevant for Belarus: What do you think are the most important problems in Belarus today? Please select no more
+Consequences of the conflict between Russia and Ukraine: What do you think are the most important problems in Belarus today? Please choose not more
+Western sanctions: What do you think are the most important problems in Belarus today? Please select no more than five of the most important issues
+Emigration of people from Belarus: What do you think are the most important problems in Belarus today? Please select no more than five of the most important ones�
+How do you rate your standard of living?
+How has your material standard of living changed over the past year?
+If your material standard of living has decreased over the past year, what was the main reason for this?
+If your material standard of living has increased over the past year, what was the main reason for this?
+How do you think your material standard of living will change in the coming year?
+If your material standard of living decreases in the coming year, what will this be most related to?
+If your material standard of living increases in the next year, what will this be most associated with?
+Army: In your opinion, where should the government allocate more money and what expenses should it cut?
+Police, security forces: In your opinion, what should the state spend more money on and what expenses should be cut?
+Pensions, scholarships, benefits: In your opinion, what should the state spend more money on and what expenses should be cut?
+Healthcare: In your opinion, what should the government spend more money on and what expenses should it cut?
+Education, science: In your opinion, what should the state spend more money on and what expenses should be cut?
+Housing and communal services: In your opinion, what should the government spend more money on and what expenses should it cut?
+Contents of government bodies: In your opinion, where should the government allocate more money and what expenses should it cut?
+Development and implementation of high technologies: In your opinion, what should the government spend more money on and what expenses should be cut?
+Environmental protection: In your opinion, what should the government spend more money on and what expenses should it cut?
+Agriculture: In your opinion, what should the government spend more money on and what expenses should it cut?
+Construction of sports facilities: In your opinion, what should the government spend more money on and what expenses should be cut?
+Tourism development: In your opinion, what should the government spend more money on and what expenses should be cut?
+Construction of roads and other infrastructure: In your opinion, what should the government spend more money on, and what expenses should be reduced?
+Industry: In your opinion, what should the government spend more money on and what expenses should it cut?
+The purchase and sale of small enterprises must be carried out with the permission of the state; some small enterprises must be state-owned
+Most prices should be set and controlled by the government: How much do you agree or disagree with the following statements?
+The vast majority of large enterprises should be government owned: How much do you agree or disagree with �
+The largest banks should be state owned and implement state programs: To what extent do you agree or disagree with the following?
+Unprofitable enterprises should be subsidized by the state if the jobs of many people depend on it, even if they produce
+Export, import and trading of foreign exchange should be strictly controlled by the government:To what extent do you agree or disagree with the following statements?
+The state must create special conditions for individual enterprises and industries, for example, support domestic producers:N�
+Energy, telecommunications, housing, utilities and road infrastructure should be owned by the state: To what extent do you agree?
+Employment and wages should be strictly regulated by the government, even in private enterprises: How much do you agree or disagree with the following?
+Land should be owned by the state, with the exception of small plots, the purchase and sale of which should also be limited�
+Small businesses should be privately owned and freely bought and sold: How much do you agree or disagree with
+Most prices should be set based on supply and demand without government interference: How much do you agree or disagree
+The vast majority of large businesses should be privately owned: How much do you agree or disagree with the following?
+It is absolutely not necessary for even the largest banks to be state-owned: How much do you agree or disagree with this statement?
+Unprofitable enterprises should not be subsidized by the state if they produce uncompetitive products, even if this costs
+Export, import and currency trading should not be strictly controlled by the government: How much do you agree or disagree with the following statements?
+The state must create the same conditions for all enterprises and industries, for example, for foreign ones - the same as for domestic ones
+Energy, telecommunications, housing, utilities and road infrastructure can be privately owned: To what extent do you agree or
+Issues of employment and wages should be the subject of an employment contract between the employee, employer and trade union, and not be decided at the level
+With few exceptions, land can be bought and sold freely, including to foreign citizens: To what extent do you agree or disagree
+In your opinion, which enterprises and organizations operate more efficiently from an economic point of view?
+Which company or organization would you prefer your children to work at?
+Russia: Please compare the situation in these countries with the situation in Belarus according to the following characteristic: Standard of living
+Ukraine: Please compare the situation in these countries with the situation in Belarus according to the following characteristics: Standard of living
+Lithuania: Please compare the situation in these countries with the situation in Belarus according to the following characteristics: Standard of living
+Poland: Please compare the situation in these countries with the situation in Belarus according to the following characteristics: Standard of living
+Germany: Please compare the situation in these countries with the situation in Belarus according to the following characteristic: Standard of living
+Sweden: Please compare the situation in these countries with the situation in Belarus according to the following characteristics: Standard of living
+USA: Please compare the situation in these countries with the situation in Belarus according to the following characteristic: Standard of living
+Russia: Please compare the situation in these countries with the situation in Belarus according to the following characteristics: Stability
+Ukraine: Please compare the situation in these countries with the situation in Belarus according to the following characteristics: Stability
+Lithuania: Please compare the situation in these countries with the situation in Belarus according to the following characteristics: Stability
+Poland: Please compare the situation in these countries with the situation in Belarus according to the following characteristics: Stability
+Germany: Please compare the situation in these countries with the situation in Belarus according to the following characteristics: Stability
+Sweden: Please compare the situation in these countries with the situation in Belarus according to the following characteristics: Stability
+USA: Please compare the situation in these countries with the situation in Belarus according to the following characteristics: Stability
+Russia: Please compare the situation in these countries with the situation in Belarus according to the following characteristics: Opportunity to earn money
+Ukraine: Please compare the situation in these countries with the situation in Belarus according to the following characteristics: Opportunity to earn money
+Lithuania: Please compare the situation in the above countries with the situation in Belarus according to the following characteristics: Opportunity to earn money
+Poland: Please compare the situation in these countries with the situation in Belarus according to the following characteristics: Opportunity to earn money
+Germany: Please compare the situation in these countries with the situation in Belarus according to the following characteristics: Opportunity to earn money
+Sweden: Please compare the situation in these countries with the situation in Belarus according to the following characteristics: Opportunity to earn money
+USA: Please compare the situation in these countries with the situation in Belarus according to the following characteristics: Opportunity to earn money
+Russia: Please compare the situation in these countries with the situation in Belarus according to the following characteristic: Corruption
+Ukraine: Please compare the situation in these countries with the situation in Belarus according to the following characteristics: Corruption
+Lithuania: Please compare the situation in these countries with the situation in Belarus according to the following characteristics: Corruption
+Poland: Please compare the situation in these countries with the situation in Belarus according to the following characteristics: Corruption
+Germany: Please compare the situation in these countries with the situation in Belarus according to the following characteristic: Corruption
+Sweden: Please compare the situation in these countries with the situation in Belarus according to the following characteristics: Corruption
+USA: Please compare the situation in these countries with the situation in Belarus according to the following characteristic: Corruption
+Belarus: If state-owned enterprises are privatized, would you prefer that their owners be citizens of which countries?
+Israel: If state-owned enterprises are privatized, would you prefer that their owners be citizens of which countries? �
+Iran, Venezuela: If state-owned enterprises are privatized, would you prefer that their owners be citizens of which
+China: If state-owned enterprises are privatized, would you prefer that their owners be citizens of which countries? You�
+Russia: If state-owned enterprises are privatized, would you prefer that their owners be citizens of which countries? B�
+EU countries: If state-owned enterprises are privatized, would you prefer that they be owned by citizens like�
+USA: If state-owned enterprises are privatized, would you prefer that their owners be citizens of which countries? Vybe�
+I find it difficult to answer: If state-owned enterprises are privatized, would you prefer that their owners be citizens?
+Civil peace and political stability are ensured in our state, and this justifies some restrictions
+To what extent do you agree or disagree with the following statements? The ordinary person in Belarus is not protected from the arbitrariness of the authorities
+Belarus should become a member of the European Union: To what extent do you agree or disagree with the following statements?
+Belarus should be an independent state: To what extent do you agree or disagree with the following statements?
+Belarus must maintain neutrality in foreign policy: To what extent do you agree or disagree with the following statements?
+Belarus should be friends with both Russia and Ukraine: To what extent do you agree or disagree with the following statements?
+Belarus and Russia should build a union state with a single currency, president and parliament: To what extent do you agree or disagree?
+How often have you personally come across news about Belarusian pro-democracy organizations, initiatives, and politicians in the last three months?
+1: In your opinion, what areas of activity should now be the highest priority for Belarusian pro-democratic organizations
+2: In your opinion, what areas of activity should now be the highest priority for Belarusian pro-democratic organizations
+3: In your opinion, what areas of activity should now be the highest priority for Belarusian pro-democracy organizations
+I find it difficult to answer: In your opinion, what areas of activity should now be the highest priority for Belarusian democratic democrats?
+1: In your opinion, what areas of activity should now be the highest priority for Belarusian pro-democracy organizations.1
+2: In your opinion, what areas of activity should now be the highest priority for Belarusian pro-democracy organizations.1
+3: In your opinion, what areas of activity should now be the highest priority for Belarusian pro-democracy organizations.1
+Development of draft laws or reform concepts for the future: In your opinion, which of the listed areas of activity should now
+Creation and preparation of a personnel reserve for future government structures: In your opinion, which of the listed areas are active
+Reaching agreements with the European Union on economic support for Belarus after the transition of power: In your opinion, which of the list?
+Support for Belarusian volunteers in Ukraine: In your opinion, which of the listed areas of activity should now be the most �
+Solving problems regarding the legalization of Belarusians abroad: In your opinion, which of the listed areas of activity should now be on
+Release of political prisoners: In your opinion, which of the listed areas of activity should now be the highest priority?
+Support for political prisoners and their families: In your opinion, which of the listed areas of activity should now be the highest priority?
+Support for the development of national culture: In your opinion, which of the listed areas of activity should now be the most important?
+Bringing representatives of the current government to justice in international courts: In your opinion, which of the following areas
+Increasing sanctions pressure on the current government: In your opinion, which of the listed areas of activity should now be
+Mitigating the consequences of sanctions affecting ordinary people: In your opinion, which of the listed areas of activity should now be
+Analysis of the current political and economic situation in Belarus: In your opinion, which of the listed areas of activity are currently up to
+Support for independent media: In your opinion, which of the listed areas of activity should now be the highest priority for the future?
+Promoting the Belarusian agenda at the international level (meetings with politicians, attending events, etc.): In your opinion, which of the lists
+Preparation of actions within the country: In your opinion, which of the listed areas of activity should now be the highest priority
+Removal of visa restrictions for Belarusians: In your opinion, which of the listed areas of activity should now be the most important?
+Other (write down): In your opinion, which of the listed areas of activity should now be the highest priority for the Belarusian
+I believe that they should stop their activities: In your opinion, which of the listed areas of activity should now be on
+I find it difficult to answer: In your opinion, which of the listed areas of activity should now be the highest priority for Belarus?
+Other (write down): In your opinion, which of the listed areas of activity should now be the highest priority for Belarus.1
+Strengthening personal sanctions against state leaders: What do you think is the next position on sanctions against Belarus?
+Strengthening sanctions against key state-owned enterprises, sectoral sanctions: What do you think is the position on sanctions against Belarus?
+Strengthening large-scale sanctions up to a complete stop of economic relations: What do you think, what is your position on sanctions in relation to
+Should promote easing of sanctions: What position do you think regarding sanctions against Belarus should be promoted by pro-democrats�
+I find it difficult to answer: What position do you think regarding sanctions against Belarus should be promoted by pro-democratic organizations?
+What position do you think pro-democratic organizations, initiatives, and politicians should take regarding the Russian-Ukrainian war?
+What position do you think pro-democracy organizations, initiatives, and politicians should take regarding political prisoners?
+Other (write down): What position do you think pro-democracy organizations, initiatives,
+What do you think is the position on visa restrictions for Belarusians (for example, a reduction in the number of visa centers, more frequent refusals
+To what extent do you think pro-democracy organizations, initiatives or politicians now have the opportunity to operate within Belarus?
+Belarusian / Belarusian: What nationality do you consider yourself to be? Select all that apply
+Russian / Russian: What nationality do you consider yourself to be? Select all that apply
+Ukrainian / Ukrainian: What nationality do you consider yourself to be? Select all that apply
+Pole / Polish: What nationality do you consider yourself to be? Select all that apply
+Other nationality (write down): What nationality do you consider yourself to be? Select all that apply
+Other nationality (write down): What nationality do you consider yourself to be? Select all that apply.1
+Russia:Which of the following countries have you been to in the last three years? Select all that apply
+Ukraine:Which of the following countries have you been to in the last three years? Select all that apply
+Baltic countries (Lithuania, Latvia, Estonia): Which of the following countries have you been to in the last three years? Select all that apply
+Eastern European countries (Poland, Czech Republic, etc.): Which of the following countries have you been to in the last three years? Select all that apply
+Countries of Western Europe (Germany, France, etc.): Which of the following countries have you been to in the last three years? Select all that apply
+Scandinavian countries (Finland, Sweden, Norway): Which of the following countries have you visited in the last three years? Select all that approach
+North American Countries (USA, Canada): Which of the following countries have you visited in the last three years? Select all that apply
+Other country (write down): Which of the following countries have you visited in the last three years? Select all that apply
+I have not been abroad in the last 3 years: Which of the following countries have you been to in the last three years? Select all that apply
+Other country (write down): Which of the following countries have you visited in the last three years? Select all that apply.1
+What is your marital status?
+Do children under 18 live with you?
+How often do you use the Internet?
+Your level of education:
+Which of these statements best describes your family's monthly income?
+How many people are in your family who live with you and run a common household (including you)?
+Estimate the total monthly income of your family members who live with you and with whom you run a joint household. Include
+Recode in BYN
+Per person in BYN
+status = 1 (FILTER)
+the level of education
+S5_new
+Raked Weight
+Total
+It's better to have a lower salary but a guaranteed job
+It is better to have average medical care, but for free
+It is better to work in a state-owned enterprise than in a private one
+It would be better for Belarusian enterprises to earn not very large profits, but not to be bought up by foreigners
+Civil peace and political stability are ensured in our state, and this justifies some restrictions.1
+B1_rec
+It is better to distribute university graduates forcibly, but not leave them unemployed
+Sum of points based on the degree of contract acceptance
+Segments by degree of adoption (three main groups)
+Segments by degree of adoption (with pensioners highlighted)
+Total
+Sum of points based on the degree of contract acceptance - without contract system
+Segments by degree of adoption (three main groups) - without contract system
+Segments by degree of acceptance (with pensioners highlighted) - without contract system
+Education level
+Income per person (grouping)
+Family status
+Internet using
